@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pm&layout=compact)](https://github.com/vitor-pm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pm&hide=javascript,html)](https://github.com/vitor-pm)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitor-pm)](https://github.com/anuraghazra/github-readme-stats)
+Demonstração
