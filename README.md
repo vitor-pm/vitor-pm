@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h4>
-<h4 align="left">👨‍📫 How to reach me: vitormelo9913@gmail.com</h4>
-<h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h4>
+<h4 align="left"><a href="vitormelo9913@gmail.com" target="_blank" rel="noreferrer">📫 How to reach me: vitormelo9913@gmail.com</h4>
+<h4 align="left">🚩 I'm studying ☕ at Generation Brasil.</h4>
 <p align="left">
 </p>
 <a href="https://www.linkedin.com/in/vitor-pinheiro-b430ab212/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
