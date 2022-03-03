@@ -4,6 +4,7 @@
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h3>
 <h4 align="left">👨‍📫 How to reach me: vitormelo9913@gmail.com.</h3>
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h3>
+<a href="https://www.linkedin.com/in/vitor-pinheiro-b430ab212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p align="left">
 </p>
 <hr/>
