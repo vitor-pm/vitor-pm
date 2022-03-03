@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+👨‍🎓 I'm studying ☕ at Generation Brasil.
+📫 How to reach me: vitormelo9913@gmail.com
+🚩 São Paulo - SP, BR.
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-pm&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-pm&layout=compact&show_icons=true&theme=radical)](https://github.com/vitor-pm/github-readme-stats)
 
 <!--
 **vitor-pm/vitor-pm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
