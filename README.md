@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h4>
-<h4 align="left">👨‍📫 How to reach me: vitormelo9913@gmail.com.</h4>
+<h4 align="left">👨‍📫 How to reach me: vitormelo9913@gmail.com</h4>
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h4>
 <p align="left">
 </p>
