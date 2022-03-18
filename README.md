@@ -3,7 +3,7 @@
 
 <h4 align="left">👨‍🎓 I'm studying ☕ at Generation Brasil.</h4>
 <h4 align="left">📫 How to reach me: <a href="mailto:vitormelo9913@gmail.com">vitormelo9913@gmail.com</a></h4>
-<h4 align="left">🚩 I'm studying ☕ at Generation Brasil.</h4>
+<h4 align="left">🚩 São Paulo - SP, BR.</h4>
 <p align="left">
 </p>
 <a href="https://www.linkedin.com/in/vitor-pinheiro-b430ab212/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
